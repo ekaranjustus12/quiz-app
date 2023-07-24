@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.App-header{
+  margin: 5px 8px;
+  
+}
+.App-header h1{
+  font-size: 20px;
+  font-weight: 400;
+  color: red;
+}
+.quiz h2{
+  margin-top:5px;
+  font-size: 15px;
+  font-weight: 400;
+  color: red;
+}
+.answer button{
+  font-size: 15px;
+  font-weight: 200;
+  background:lightskyblue;
+  border: 1px solid;
+  color:black;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 5px 8px;
+}
+.score{
+  margin-top: 5px;
+  font-size: 15px;
+}
